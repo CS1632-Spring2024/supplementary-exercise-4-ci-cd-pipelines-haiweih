@@ -11,7 +11,7 @@
 
   <name>cs1632-cicd-junit</name>
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
-  <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
+  <url>https://github.com/CS1632-Spring2024/supplementary-exercise-4-ci-cd-pipelines-haiweih</url>
 
   <licenses>
     <license>
@@ -39,7 +39,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632-Spring2024/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
+      <url>https://github.com/CS1632-Spring2024/supplementary-exercise-4-ci-cd-pipelines-haiweih</url>
     </repository>
   </distributionManagement>
 
